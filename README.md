@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Mohammed Rabeeh CT</h1>
-<h3 align="center">A passionate Flutter Developer from India</h3>
+<h3 align="center">🧑‍💻 Flutter Developer</h3>
+<h3 align="center">💬 Ask me about Flutter & Dart</h3>
+📫 How to reach me <p><a href="mailto:akhilak960641@gmail.com">akhilak960641@gmail.com</a></p><br>
+</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
